@@ -1,0 +1,1 @@
+# jenkins-archetypal-project
